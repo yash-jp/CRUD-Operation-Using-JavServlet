@@ -1,0 +1,16 @@
+body{
+	
+}
+
+.registration-form{
+	border:1px solid black;
+}
+
+#container{
+	width:50%;
+}
+
+.thankYou{
+	border:1px solid black;
+	background-color: yellow;
+}
